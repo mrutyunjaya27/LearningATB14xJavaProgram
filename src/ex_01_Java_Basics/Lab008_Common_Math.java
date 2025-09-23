@@ -8,6 +8,6 @@ public class Lab008_Common_Math
         System.out.println(2-2);
         System.out.println(2/2);
         System.out.println("2+2"); //"2+2" - A String - It's print As It Is
-        System.out.println(3/2); //1.5 - println -> Integer part -> No decimal
+        System.out.println(3/2); //1 - 1.5 - println -> Integer part -> No decimal
     }
 }
